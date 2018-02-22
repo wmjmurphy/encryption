@@ -26,7 +26,7 @@ Eg. In Eclipse use File -> Import... -> Maven -> Existing Maven Project
 
 ## Testing
 
-In other to test the algorithm, please, run the Unit Test in any IDE or using Maven
+In order to test the algorithm, please, run the Unit Test in any IDE or using Maven
 
 mvn test
 
